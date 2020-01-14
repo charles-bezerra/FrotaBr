@@ -28,7 +28,7 @@ class MinicarregadeiraTest {
 
     @Test
     void consultar(){
-        String exp = "1, 200.0, 900.0, 90.0 | 200.0, 800.0, 90.0 |";
+        String exp = "(3, 200.0, 900.0, 90.0, geral) | (4, 200.0, 800.0, 90.0, geral) | ";
 
         assertEquals(exp, frota1.consultar("geral"));
     }

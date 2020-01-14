@@ -73,8 +73,8 @@ public class Frota {
     }
 
 
-    String consultar(String aplicacao){
-        ArrayList<Minicarregadeira> lista = new ArrayList<>(this.minicarregadeiras.values());
+    public String consultar(String aplicacao){
+        ArrayList<Minicarregadeira> lista = new ArrayList<>( this.minicarregadeiras.values() );
         Collections.sort(lista);
         String r = "";
 

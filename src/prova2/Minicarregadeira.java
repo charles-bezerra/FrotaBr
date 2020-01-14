@@ -16,6 +16,7 @@ public class Minicarregadeira implements Comparable<Minicarregadeira>{
         this.capacidade = verificaDouble(capacidade, "Capacidade");
         this.peso = verificaDouble(peso, "Peso");;
         this.aplicacao = "geral";
+        this.acessorio = new Acessorio(0.0,0,"geral");
 
         contador++;
     }
@@ -44,12 +45,13 @@ public class Minicarregadeira implements Comparable<Minicarregadeira>{
 
     @Override
     public String toString(){
-        return "(" + id + ", " + potencia + ", " + ", " + (capacidade + acessorio.getCapacidade()) + ", " + (peso + acessorio.getPeso()) + ", " + aplicacao + ")";
+        return "(" + id + ", " + potencia + ", "  + (capacidade + acessorio.getCapacidade()) + ", " + (peso + acessorio.getPeso()) + ", " + aplicacao + ")";
     }
 
     @Override
     public int compareTo(Minicarregadeira minicarregadeira){
-        return this.toString().compareTo(minicarregadeira.toString());
+        return this.toString()
+                .compareTo(minicarregadeira.toString());
     }
 
 }

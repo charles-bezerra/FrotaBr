@@ -2,189 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d82c89ca-c280-482f-8cdf-97afa7ef26ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prova2/Acessorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prova2/AcessorioCCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prova2/AcessorioCCes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FrotaBr/prova2/Frota.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FrotaBr/prova2/Frota.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FrotaBr/prova2/Minicarregadeira.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FrotaBr/prova2/Minicarregadeira.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FrotaBr/prova2/MinicarregadeiraTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FrotaBr/prova2/MinicarregadeiraTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prova2/Frota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prova2/Frota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prova2/Minicarregadeira.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prova2/Minicarregadeira.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes/prova2/MinicarregadeiraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testes/prova2/MinicarregadeiraTest.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1227688103">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.56" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1044" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1044" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="689003113">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2382" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2382" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="6" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prova2/Facade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-              <folding>
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#733#734#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#828#829#0" expanded="true" />
-                <element signature="e#878#879#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prova2/Minicarregadeira.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-              <folding>
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#731#732#0" expanded="true" />
-                <element signature="e#763#764#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prova2/AcessorioCCes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prova2/Acessorio.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prova2/AcessorioCCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prova2/AcessorioCGal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testes/prova2/MinicarregadeiraTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prova2/Frota.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="77" column="29" lean-forward="true" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -202,76 +37,20 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/prova2/AcessorioCCar.java" />
-        <option value="$PROJECT_DIR$/src/prova2/AcessorioCGal.java" />
-        <option value="$PROJECT_DIR$/src/prova2/AcessorioCCes.java" />
-        <option value="$PROJECT_DIR$/src/prova2/Acessorio.java" />
-        <option value="$PROJECT_DIR$/src/prova2/Minicarregadeira.java" />
-        <option value="$PROJECT_DIR$/src/prova2/Facade.java" />
-        <option value="$PROJECT_DIR$/src/prova2/Frota.java" />
-        <option value="$PROJECT_DIR$/testes/prova2/MinicarregadeiraTest.java" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="285" />
-    <option name="y" value="53" />
-    <option name="width" value="1360" />
-    <option name="height" value="1000" />
-  </component>
+  <component name="ProjectId" id="1UAzECGL6E8pUyqOfY1dD7vP3zR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CharlesBezerraDeOliveiraJunior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CharlesBezerraDeOliveiraJunior" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CharlesBezerraDeOliveiraJunior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CharlesBezerraDeOliveiraJunior" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CharlesBezerraDeOliveiraJunior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CharlesBezerraDeOliveiraJunior" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="prova2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CharlesBezerraDeOliveiraJunior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CharlesBezerraDeOliveiraJunior" type="462c0819:PsiDirectoryNode" />
-              <item name="testes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CharlesBezerraDeOliveiraJunior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CharlesBezerraDeOliveiraJunior" type="462c0819:PsiDirectoryNode" />
-              <item name="testes" type="462c0819:PsiDirectoryNode" />
-              <item name="prova2" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574773217982" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -302,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MinicarregadeiraTest.testGerarId">
+  <component name="RunManager" selected="JUnit.MinicarregadeiraTest.consultar">
     <configuration name="MinicarregadeiraTest.consultar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FrotaBr" />
       <extension name="coverage">
@@ -341,8 +120,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MinicarregadeiraTest.testGerarId" />
         <item itemvalue="JUnit.MinicarregadeiraTest.consultar" />
+        <item itemvalue="JUnit.MinicarregadeiraTest.testGerarId" />
       </list>
     </recent_temporary>
   </component>
@@ -356,157 +135,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574766759025</updated>
+      <workItem from="1574814079842" duration="904000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="MinicarregadeiraTest_consultar - 2019.11.26 at 09h 55m 54s.xml">
-      <configuration name="MinicarregadeiraTest.consultar" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinicarregadeiraTest_consultar - 2019.11.26 at 09h 56m 55s.xml">
-      <configuration name="MinicarregadeiraTest.consultar" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinicarregadeiraTest_consultar - 2019.11.26 at 09h 57m 24s.xml">
-      <configuration name="MinicarregadeiraTest.consultar" configurationId="JUnit" />
-    </history-entry>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="51" y="25" width="1869" height="1055" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25233132" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.32972974" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/prova2/VerificarDouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prova2/AcessorioCGal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prova2/AcessorioCCes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prova2/Acessorio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prova2/AcessorioCCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prova2/Facade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prova2/Frota.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="77" column="29" lean-forward="true" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prova2/Minicarregadeira.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testes/prova2/MinicarregadeiraTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
